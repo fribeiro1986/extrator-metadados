@@ -1,6 +1,6 @@
-🔍 Extrator de Metadados
+﻿🔍 Extrator de Metadados
 
-Script simples em Python para extrair metadados e hashes (MD5/SHA256) de arquivos.
+Script simples em Python para extrair metadados e hashes (MD5/SHA256) de arquivos para análises forenses.
 
 📚 Funcionalidades:
 - Geração de hash MD5 e SHA256

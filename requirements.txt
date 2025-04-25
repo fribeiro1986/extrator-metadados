@@ -1,0 +1,3 @@
+exifread
+python-docx
+PyPDF2
